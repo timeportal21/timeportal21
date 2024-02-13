@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timeportal21(Rabin Shrestha)
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Nodejs,Reactjs
-- 💞️ I’m looking to collaborate on Reactjs
+- 🌱 I’m currently learning Nodejs,NextJs
+- 💞️ I’m looking to collaborate on NextJs
 - 📫 How to reach me timeportal21@gmail.com
 
 <!---
